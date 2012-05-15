@@ -1,0 +1,6 @@
+Makefile.PL
+MANIFEST
+README
+t/IPTables-Rule.t
+lib/IPTables/Rule.pm
+META.yml                                 Module meta-data (added by MakeMaker)
